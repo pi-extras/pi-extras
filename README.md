@@ -30,5 +30,9 @@ The full list of the packages can be found [here](https://apt.pi-extras.ml/debia
 
 ## To-do
 - [ ] Create auto-update scripts
-- [ ] Add multiple mirrors of the repo
+- [ ] Add multiple mirrors for the repo
 - [ ] Create a script to add or remove the repo
+- [ ] Create a documentation site
+- [ ] Design a logo for the project
+- [ ] Auto build packages
+- [ ] Apply for Arm servers for CI
