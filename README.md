@@ -27,3 +27,8 @@ Now you can install packages from the repo via `sudo apt install PACKAGE_NAME`.
 (Replace `PACKAGE_NAME` with the name of the package you want to install)
 
 The full list of the packages can be found [here](https://apt.pi-extras.ml/debian/pool/main/).
+
+## To-do
+- [ ] Create auto-update scripts
+- [ ] Add multiple mirrors of the repo
+- [ ] Create a script to add or remove the repo
